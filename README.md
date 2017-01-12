@@ -1,3 +1,5 @@
 # hello-world
 Introduction to Git
-About Me.. I am an Electical/Computer Engineer working in the automotive industry and reside in michigan.
+About Me.. I am an Electrical/Computer Engineer working in the automotive industry and reside in Michigan.
+I program embedded systems typically on a Freescale/Infineon/Renasas microcontroller.
+
